@@ -1,0 +1,4 @@
+﻿External id,ExternalPatientNumber,DOB,Patient ID,Patient name,MobileNumber,Customer internal id,Order client type,VisitNumber,Location internalid,Memo,Pending Fulfillment,Date,MRPAmount,Test code internal id,Line,Location internalid
+SO_ebdf5bc7-fe5e-49cb-bd8f-342f7edb4281,1,01/01/1990,P23136477,CAP CAR-B-S06.1,0,1262340,2,ebdf5bc7-fe5e-49cb-bd8f-342f7edb4281,2,202307_Attune missing order,Yes,04/07/2023,99000,1462,1,2
+SO_ebdf5bc7-fe5e-49cb-bd8f-342f7edb4281,1,01/01/1990,P23136477,CAP CAR-B-S06.1,0,1262340,2,ebdf5bc7-fe5e-49cb-bd8f-342f7edb4281,2,202307_Attune missing order,Yes,04/07/2023,143000,1534,2,2
+SO_ebdf5bc7-fe5e-49cb-bd8f-342f7edb4281,1,01/01/1990,P23136477,CAP CAR-B-S06.1,0,1262340,2,ebdf5bc7-fe5e-49cb-bd8f-342f7edb4281,2,202307_Attune missing order,Yes,04/07/2023,225000,4205,3,2
