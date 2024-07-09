@@ -21,9 +21,9 @@
 - [Payment](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/CSVs/Payment)
 
 ### Utilities searches to get internalid
-- [Get internalid of active customer](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2557&whence=)
-- [Get item internalid](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=1640&whence=)
-- [Get location internalid](https://5574610.app.netsuite.com/app/common/otherlists/locationlist.nl?whence=) 
+- <a href="https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2557&whence=" target="_blank">Get internalid of active customer</a>
+- <a href="https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=1640&whence=" target="_blank">Get item internalid</a>
+- <a href="https://5574610.app.netsuite.com/app/common/otherlists/locationlist.nl?whence=" target="_blank">Get location internalid</a>
 
 ### Utilities hard code list
 - Special item cases
