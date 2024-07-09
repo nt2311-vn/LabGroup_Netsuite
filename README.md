@@ -1,6 +1,6 @@
 # Lab Group NetSuite User Guide
 
-## Perform Searches
+## Perform Searches [list of regular use searches](https://github.com/nt2311-vn/LabGroup_Netsuite/blob/main/Searches/Revenue/README.md) 
 ## CSV import & templates
 ## Scripts
 
