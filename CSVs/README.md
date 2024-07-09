@@ -15,7 +15,7 @@
 5. Click **Next** and review the import settings.
 6. Click **Run** to start the import process.
 
-### Import Status [link](https://5574610.app.netsuite.com/app/setup/upload/csv/csvstatus.nl?whence=) 
+### Import Status (view status of your import) [link](https://5574610.app.netsuite.com/app/setup/upload/csv/csvstatus.nl?whence=) 
 
 ### Templates
 - [Invoice](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/CSVs/Invoice) 
