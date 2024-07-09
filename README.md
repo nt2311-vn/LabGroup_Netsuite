@@ -1,7 +1,8 @@
-# NetSuite User Guide
+# Lab Group NetSuite User Guide
 
 ## Perform Searches
 ## CSV import & templates
+## Scripts
 
 ### How to Perform a Basic Search
 
