@@ -15,6 +15,8 @@
 5. Click **Next** and review the import settings.
 6. Click **Run** to start the import process.
 
+### [Track Import Status](https://5574610.app.netsuite.com/app/setup/upload/csv/csvstatus.nl?whence=) 
+
 ### Templates
 - [Invoice](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/CSVs/Invoice) 
 - [Sales Order](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/CSVs/Sales_Order)
