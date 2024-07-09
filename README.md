@@ -1,6 +1,7 @@
 # NetSuite User Guide
 
-## System Searches
+## Perform Searches
+## CSV import & templates
 
 ### How to Perform a Basic Search
 
