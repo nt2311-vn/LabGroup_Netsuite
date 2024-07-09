@@ -15,6 +15,11 @@
 5. Click **Next** and review the import settings.
 6. Click **Run** to start the import process.
 
+### Templates
+- [Invoice](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/CSVs/Invoice) 
+- [Sales Order](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/CSVs/Sales_Order)
+- [Payment](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/CSVs/Payment)
+
 ### Utilities searches to get internalid
 [Get internalid of active customer](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2557&whence=)
 [Get item internalid](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=1640&whence=)
