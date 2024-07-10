@@ -1,4 +1,4 @@
-# <img src="https://5574610.app.netsuite.com/core/media/media.nl?id=20096&c=5574610&h=-wXNBAILKs1jdn6M5D34QhCLrsfHkZCVnkFHG5QjDZ7JeFJt" alt="Diag" width="120" height="30">  NetSuite User Guide 
+# <img src="https://5574610.app.netsuite.com/core/media/media.nl?id=20096&c=5574610&h=-wXNBAILKs1jdn6M5D34QhCLrsfHkZCVnkFHG5QjDZ7JeFJt" alt="Diag" width="60" height="30">  NetSuite User Guide 
 
 # 📚 Table of Contents
 
