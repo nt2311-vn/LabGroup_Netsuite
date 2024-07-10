@@ -1,6 +1,4 @@
-# Revenue Reports
-
-## Available Searches
+## Available Revenue Searches
 
 ### [Revenue with Line Item](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=1737&whence=)
 - **Description:** Get revenue with details of which item code (test code), which location arise, which customer, which period, etc.
@@ -11,3 +9,8 @@
 ### [Revenue by Panel](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2188&whence=)
 - **Description:** Get revenue details by panel test (group test, health packages) with metrics on which location, which customer, total amount, etc.
 
+### [Revenue by CRM](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2560&whence=) 
+- **Description:** Get revenue details by CRM with key metrics on which customer, customer segment, which period, total amount, etc.
+
+### [Revenue volume item](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2741&whence=) 
+- **Description:** Get revenue details by volume item (single test) for panel refer to (**Revenye by Panel**) with key metrics on which item code, total amount, total quantities.
