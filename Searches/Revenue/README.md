@@ -22,7 +22,6 @@
 - *For the corporate segment, the date range is from the 1st to the end of the month.*
 - *For the clinic and hospital segment, doctor referral, and insurance, the date range is from the 14th of the previous month to the 13th of the current month.*
 
-
 ### [Revenue Cash Client](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Revenue)
 - **Description:** Get revenue details by cash client, used mainly for monthly and quarterly incentive calculations.
 
