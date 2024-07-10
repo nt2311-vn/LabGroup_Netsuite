@@ -9,8 +9,16 @@
 ### [Revenue by Panel](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2188&whence=)
 - **Description:** Get revenue details by panel test (group test, health packages) with metrics on which location, which customer, total amount, etc.
 
-### [Revenue by CRM](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2560&whence=) 
+### [Revenue by CRM](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2560&whence=)
 - **Description:** Get revenue details by CRM with key metrics on which customer, customer segment, which period, total amount, etc.
 
-### [Revenue volume item](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2741&whence=) 
-- **Description:** Get revenue details by volume item (single test) for panel refer to (**Revenye by Panel**) with key metrics on which item code, total amount, total quantities.
+### [Revenue Volume Item](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2741&whence=)
+- **Description:** Get revenue details by volume item (single test). For panel, refer to [Revenue by Panel](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2188&whence=). Key metrics include item code, total amount, and total quantities.
+
+### [Revenue Credit Client](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2331&whence=)
+- **Description:** Get revenue details by credit client, used mainly for monthly and quarterly incentive calculations.
+
+*Notes:*
+- *For the corporate segment, the date range is from the 1st to the end of the month.*
+- *For the clinic and hospital segment, doctor referral, and insurance, the date range is from the 14th of the previous month to the 13th of the current month.*
+
