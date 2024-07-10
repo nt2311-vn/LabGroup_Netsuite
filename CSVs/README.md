@@ -4,7 +4,7 @@
 
 1. Ensure your CSV file has the correct headers as per the NetSuite template.
 2. Each column should represent a field in NetSuite.
-3. Save your CSV file in `.csv` format.
+3. Save your CSV file in `.csv` **UTF-8** format.
 
 ### Importing CSV Files
 
@@ -13,7 +13,7 @@
 3. Upload your CSV file.
 4. Map the CSV columns to the corresponding NetSuite fields.
 5. Click **Next** and review the import settings.
-6. Click **Run** to start the import process.
+6. Click **Run** to start the import process | **Save and Run** to save the import settings for future use | **Save as and run** to save the import settings with a new name.
 
 ### Import Status (view status of your import) [link](https://5574610.app.netsuite.com/app/setup/upload/csv/csvstatus.nl?whence=) 
 
