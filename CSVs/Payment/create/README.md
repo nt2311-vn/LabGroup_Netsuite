@@ -1,0 +1,2 @@
+- [Import link](https://5574610.app.netsuite.com/app/setup/assistants/nsimport/importassistant.nl?recid=474&new=T) 
+- [Template](https://github.com/nt2311-vn/LabGroup_Netsuite/blob/main/CSVs/Payment/create/Template%20PMT%20create.csv) 
