@@ -45,3 +45,10 @@
 |----|----------|
 |Cash|1|
 |Credit|2|
+
+- Payment methods
+
+|Method|Internalid|
+|------|----------|
+|MB Bank|9|
+|ACB Bank|10|
