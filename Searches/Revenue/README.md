@@ -15,6 +15,9 @@
 ### [Revenue Volume Item](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2741&whence=)
 - **Description:** Get revenue details by volume item (single test). For panel, refer to [Revenue by Panel](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2188&whence=). Key metrics include item code, total amount, and total quantities.
 
+### [Revenue and COGs segment by Zak classification](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2508&whence=) 
+- **Description:** Revenue and COGs amount by period with segment classification by Zak preferences
+
 ### [Revenue Credit Client](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2331&whence=)
 - **Description:** Get revenue details by credit client, used mainly for monthly and quarterly incentive calculations.
 
