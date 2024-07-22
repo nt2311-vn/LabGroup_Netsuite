@@ -23,4 +23,5 @@ Saved searches allow you to reuse search criteria and view results quickly.
 
 ### List of Regularly Used Searches
 - [Revenue](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Revenue) 
+- [Orders](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Orders)
 
