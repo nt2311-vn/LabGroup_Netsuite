@@ -1,3 +1,7 @@
+### List of Regularly Used Searches
+- [Revenue](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Revenue) 
+- [Orders](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Orders)
+
 ### How to Perform a Basic Search
 
 1. Navigate to the **Global Search** bar at the top of your NetSuite dashboard.
@@ -20,8 +24,3 @@ Saved searches allow you to reuse search criteria and view results quickly.
 2. Enter a name for your saved search.
 3. Set any filters and display columns.
 4. Click **Save**.
-
-### List of Regularly Used Searches
-- [Revenue](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Revenue) 
-- [Orders](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Orders)
-
