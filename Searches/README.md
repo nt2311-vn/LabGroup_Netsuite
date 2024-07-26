@@ -1,7 +1,8 @@
 ### List of Regularly Used Searches
 - [Revenue](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Revenue) 
 - [Orders](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Orders)
-- [Item](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Items)
+- [Items](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Items)
+- [Fixed Assets](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/FAM)
 
 ### How to Perform a Basic Search
 
