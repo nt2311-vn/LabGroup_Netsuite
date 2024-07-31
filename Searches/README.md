@@ -3,6 +3,7 @@
 - [Orders](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Orders)
 - [Items](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Items)
 - [Fixed Assets](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/FAM)
+- [Customers](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Customer)
 
 ### How to Perform a Basic Search
 
