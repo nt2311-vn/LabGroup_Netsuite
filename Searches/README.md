@@ -4,6 +4,7 @@
 - [Items](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Items)
 - [Fixed Assets](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/FAM)
 - [Customers](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Customer)
+- [Employee](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/Searches/Employee) 
 
 ### How to Perform a Basic Search
 
