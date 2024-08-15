@@ -27,6 +27,10 @@
 - [Get internalid of active customer](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2557&whence=)
 - [Get item internalid](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=1640&whence=)
 - [Get location internalid](https://5574610.app.netsuite.com/app/common/otherlists/locationlist.nl?whence=) 
+- [Get account by internalid](https://5574610.app.netsuite.com/app/accounting/account/accounts.nl?report=T&code=COA&whence=)
+- [Get department internalid](https://5574610.app.netsuite.com/app/common/otherlists/departmentlist.nl?whence=)
+- [Get bankname by internalid](https://5574610.app.netsuite.com/app/common/custom/custrecordentrylist.nl?rectype=341)
+- [Get vendor by internalid](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=1404&whence=)
 
 ### Utilities hard code list
 - Special item cases
