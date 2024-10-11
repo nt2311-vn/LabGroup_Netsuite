@@ -23,6 +23,7 @@
 - [Payment](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/CSVs/Payment)
 - [Credit Memo](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/CSVs/Credit_memo)
 - [Cheque](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/CSVs/Cheque)
+- [Vendor Bill](https://github.com/nt2311-vn/LabGroup_Netsuite/tree/main/CSVs/Vendor_Bill)
 
 ### Utilities searches to get internalid
 - [Get internalid of active customer](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2557&whence=)

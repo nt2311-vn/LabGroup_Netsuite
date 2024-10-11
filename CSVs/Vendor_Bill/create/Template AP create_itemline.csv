@@ -1,1 +1,2 @@
-﻿Date,AP Document No,Main ext invoice date,Main department id,Vendor internalid,Currency,Exchange rate,Main location id,Main memo,Amount,Expense line account internalid,Expense line amount,Expense line external invoice date,Expense line external invoice ref,Expense line department id,Expense line locationid,Expense line memo
+﻿Date,AP Document No,Main ext invoice date,Main department id,Vendor internalid,Currency,Exchange rate,Main location id,Main memo,Amount,Item line internalid,Item line amount,Item line ext invoice date,Item line ext invoice ref,Item line department id,Item line location id,Item line memo
+11/10/2024,AP209999,24/10/2024,343,,VND,1,4,Toàn test ghi nhận item theo line,,,,,,,,Toàn test ghi nhận item theo line
