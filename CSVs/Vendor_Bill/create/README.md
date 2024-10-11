@@ -1,0 +1,3 @@
+- [Import link](https://5574610.app.netsuite.com/app/setup/assistants/nsimport/importassistant.nl?recid=410&new=T) 
+- [Template expense](https://github.com/nt2311-vn/LabGroup_Netsuite/blob/main/CSVs/Vendor_Bill/create/Template%20AP%20create_expenseline.csv) 
+- [Template item](https://github.com/nt2311-vn/LabGroup_Netsuite/blob/main/CSVs/Vendor_Bill/create/Template%20AP%20create_itemline.csv)
