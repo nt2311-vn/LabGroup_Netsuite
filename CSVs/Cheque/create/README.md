@@ -1,2 +1,4 @@
-- [Import link](https://5574610.app.netsuite.com/app/setup/assistants/nsimport/importassistant.nl?recid=476&new=T)
-- [Template](https://github.com/nt2311-vn/LabGroup_Netsuite/blob/main/CSVs/Cheque/create/Template%20check%20create.csv)
+- [Link import expenseline](https://5574610.app.netsuite.com/app/setup/assistants/nsimport/importassistant.nl?recid=476&new=T)
+- [Template expense line](https://github.com/nt2311-vn/LabGroup_Netsuite/blob/main/CSVs/Cheque/create/Template%20check%20create%20expenseline.csv)
+- [Link import itemline](https://5574610.app.netsuite.com/app/setup/assistants/nsimport/importassistant.nl?recid=517&new=T)
+- [Template item line](https://github.com/nt2311-vn/LabGroup_Netsuite/blob/main/CSVs/Cheque/create/Template%20check%20create%20itemline.csv)
