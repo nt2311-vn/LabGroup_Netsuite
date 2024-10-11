@@ -27,6 +27,7 @@
 
 ### Utilities searches to get internalid
 - [Get internalid of active customer](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2557&whence=)
+- [Get cost center (non inventory item) internalid](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2577&whence=)
 - [Get item internalid](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=1640&whence=)
 - [Get location internalid](https://5574610.app.netsuite.com/app/common/otherlists/locationlist.nl?whence=) 
 - [Get account by internalid](https://5574610.app.netsuite.com/app/accounting/account/accounts.nl?report=T&code=COA&whence=)

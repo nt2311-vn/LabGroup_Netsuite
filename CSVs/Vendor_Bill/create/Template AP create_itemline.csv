@@ -1,2 +1,3 @@
-﻿Date,AP Document No,Main ext invoice date,Main department id,Vendor internalid,Currency,Exchange rate,Main location id,Main memo,Amount,Item line internalid,Item line amount,Item line ext invoice date,Item line ext invoice ref,Item line department id,Item line location id,Item line memo
-11/10/2024,AP209999,24/10/2024,343,,VND,1,4,Toàn test ghi nhận item theo line,,,,,,,,Toàn test ghi nhận item theo line
+﻿Date,AP Document No,Main ext invoice date,Main department id,Vendor internalid,Currency,Exchange rate,Main location id,Main memo,Amount,Item line internalid,Item line amount,Item line quantity,Item line ext invoice date,Item line ext invoice ref,Item line location id,Item line memo
+11/10/2024,AP209999,24/10/2024,343,253,VND,1,4,Toàn test ghi nhận item theo line,150000,319018,100000,1,24/10/2024,AT0001,4,Toàn test ghi nhận item theo line
+11/10/2024,AP209999,24/10/2024,343,253,VND,1,4,Toàn test ghi nhận item theo line,150000,319016,50000,1,24/10/2024,AT0001,4,Toàn test ghi nhận item theo line
