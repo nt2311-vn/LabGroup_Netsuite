@@ -1,2 +1,3 @@
-﻿Date,Document No,Other ref No,Vendor/Payee internalid,Bank account,Bank name internalid,Beneficiary name,Main Account internalid,Main location internalid,Main department internalid,Memo (main),Item line internalid,Item line location internalid,Item line memo,Item line amount
-14/08/2024,RF99999999999,PV999990,1353646,00016102432130,306,Nguyen Toan,936,22,350,"Hoàn tiền VID 9999, khách hàng không sử dụng dịch vụ",887,22,"Hoàn tiền VID 9999, khách hàng không sử dụng dịch vụ",100000
+﻿Date,Document No,Other ref No,Vendor/Payee internalid,Bank account,Bank name internalid,Beneficiary name,Main Account internalid,Main location internalid,Main department internalid,Main Exrate,Main Currency,Memo (main),Item line memo,Item line internalid,Item line location internalid,Item line quantity,Item line rate
+14/10/2024,RF99999999999,PV999990,1353646,16102432130,306,Nguyen Hong Thu Ngoc,936,22,350,1,VND,Ngọc test main memo,Ngọc test line memo 1,319011,22,2,50000
+14/10/2024,RF99999999999,PV999990,1353646,16102432130,306,Nguyen Hong Thu Ngoc,936,22,350,1,VND,Ngọc test main memo,Ngọc test line memo 2,319067,22,2,50000
