@@ -1,2 +1,2 @@
 - [Import link](https://5574610.app.netsuite.com/app/setup/assistants/nsimport/importassistant.nl?recid=518&new=T) 
-- [Template](https://github.com/nt2311-vn/LabGroup_Netsuite/blob/main/CSVs/Payment/create/Template%20PMT%20create.csv) 
+- [Template](https://github.com/nt2311-vn/LabGroup_Netsuite/blob/main/CSVs/Journals/Allocate%20vendor%20bill/Template%20create%20journal%20allocate%20vendor%20bill.csv) 
