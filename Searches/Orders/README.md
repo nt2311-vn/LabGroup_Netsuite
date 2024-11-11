@@ -5,3 +5,7 @@
 
 ### [Order by HBC Scheme](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2793&saverun=T&whence=)
 - **Description:** Returns a list of orders with HBC location in default, user can choose location in filter bar and search visit id.
+
+
+### [Order by CRM code (a provided fixed list)](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2902&whence=)
+- **Description:** A list of CRM code fixed that need to track order amount

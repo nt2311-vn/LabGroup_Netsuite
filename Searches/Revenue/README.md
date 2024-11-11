@@ -30,3 +30,6 @@
 
 *Notes:*
 - *Get the date range from **the 1st to the end of the month** for segment clinic hospital, doctor referral and insurance*
+
+### [Revenue by CRM code (fixed list)](https://5574610.app.netsuite.com/app/common/search/searchresults.nl?searchid=2898&whence=)
+- **Description:** Get revenue by a fixed provided CRM code by period
