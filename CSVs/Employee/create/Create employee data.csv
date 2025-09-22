@@ -1,11 +1,8 @@
-﻿Employee code,Last name,First name,Joined date,Terminate date,Email,Mobile phone,Department,Supervisor,Is Sales rep,Is Sales Sup
-DC101496,Nguyen,Thao Minh Trang,29/10/2024,,trang.nguyen1@diag-center.com.vn,962466924,Branch Operations : Branch Operations Nurse,"DC100114 Nguyen, Thi Thu Trang",No,
-DC101498,Le,Hoai Phuong,05/11/2024,,phuong.le1@diag.vn,397187010,Laboratory : Laboratory Technician_4th Floor,"DC100060 Le, Trung Hieu",No,
-DC101499,Tran,Le Huynh Mai,05/11/2024,,mai.tran@diag-center.com.vn,382589579,Branch Operations : Branch Operations Nurse,"DC100114 Nguyen, Thi Thu Trang",No,
-DC101500,Huynh,Thi Ngoc Anh,05/11/2024,,anh.huynh@diag-center.com.vn,827889904,Branch Operations : Branch Operations Nurse,"DC100114 Nguyen, Thi Thu Trang",No,
-DC101501,Pham,Thi Thu Phuong,05/11/2024,,phuong.pham@diag-center.com.vn,359525992,Laboratory : Laboratory Technician_2nd Floor,"DC100060 Le, Trung Hieu",No,
-DC101502,Nguyen,Khoa Nam,06/11/2024,,nam.nguyen3@diag-center.com.vn,899006743,Customer Service & Customer Experience : Customer Service & Customer Experience Customer Service,"DC101033 Nguyen, Tra My",No,
-DC101503,Bui,Nu Kim Huyen,05/11/2024,,huyen.bui@diag-center.com.vn,333075211,Branch Operations : Branch Operations Nurse,"DC100114 Nguyen, Thi Thu Trang",No,
-DC101504,Le,Quang Khanh Duy,06/11/2024,,duy.le@diag-center.com.vn,933409104,Customer Service & Customer Experience : Customer Service & Customer Experience Customer Service,"DC101033 Nguyen, Tra My",No,
-DC101505,Le,Thi Tu Kien,05/11/2024,,kien.le@diag-center.com.vn,822427603,Branch Operations : Branch Operations Nurse,"DC100114 Nguyen, Thi Thu Trang",No,
-PT101487,Nguyen,Thi Thanh Huong,07/11/2024,,huong.nguyen8@diag.vn,392651351,Marketing : Commercial Brand Marketing,"DC101400 Nguyen, Hoang Gia Khanh",No,
+﻿Employee code,Last name,First name,Joined date,Terminate date,Email,Mobile phone,Department,Supervisor,Is Sales rep
+DC101541,Dang,Thi Kieu Oanh,25/08/2025,,oanh.dang@diag.vn,0987916149,Laboratory : Bio-Imm-Maternity,"DC101726 Le, Ngoc Minh Tran",No
+DC101771,Mai,Thi Hanh,26/08/2025,,hanh.mai@diag.vn,0903718882,Commercial : Commercial Medical Sales - Mixed Lab Sales,"DC101069 Ngo, Thi Nho",Yes
+DC101772,Tran,Thai Tran,26/08/2025,,tran.tran@diag.vn,0946421635,Commercial : Commercial Medical Sales - Mixed Lab Sales,"DC101749 Le, Trong Nghia",Yes
+DC101773,Nguyen,Van Linh,28/08/2025,,,0989224078,Branch Operations : Branch Operations Logistics from PSC,"DC100269 Nguyen, Huy Thinh",No
+DC101774,Tran,Trong Khoai,27/08/2025,,,0969299446,Branch Operations : Branch Operations Logistics from PSC,"DC100269 Nguyen, Huy Thinh",No
+DC101775,Tran,Nguyen Phuong Anh,25/08/2025,,anh.tran3@diag.vn,0393602027,Marketing : Commercial Trade marketing,"DC100895 Nguyen, Dang Khoa",No
+DC101776,Dang,Thanh Duy,26/08/2025,,,,Branch Operations : Branch Operations Logistics from PSC,"DC100269 Nguyen, Huy Thinh",No

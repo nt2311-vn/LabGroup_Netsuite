@@ -1,0 +1,3 @@
+﻿InternalID,Reason for update (*),Tag,Stock category,Item code (*),Display name (*),Unit,Package size (*),Package size V2,Unit 1,Rate 1,Unit 2,Rate 2,Unit 3,Rate 3,Unit 4,Rate 4,No. of tests per UOM,Vendor (*),Purchase price (before VAT),VAT rate,Purchase price (after VAT) (*),Storage condition (*)
+403438,ECIV-2311_Update price,3_Bio_Imm,Reagent ,07299982214,07299982214 NSE Elecsys E2G 300,Box,300 Test,300 Test/box,Test,300,Pack,1,Box,1,Test,300,0,V000126 CÔNG TY TNHH DKSH VIỆT NAM,22027000,5%,23128350,2
+403439,ECIV-2311_Update price,3_Bio_Imm,Calibration ,12133121122,12133121122 NSE CS ELECSYS KIT,Box,4 x 1.0 mL,4 x 1.0 mL/ Box,ml,4,Set2,2,Box,4,Times,8,40,V000126 CÔNG TY TNHH DKSH VIỆT NAM,1748000,5%,1835400,2
